@@ -23,7 +23,7 @@ Recommended to add in /etc/sudoers.d/user
 
 Follow https://its.gmu.edu/knowledge-base/how-to-install-cisco-anyconnect-on-linux/ for installation.
 
-Use this script if you prefer the use of command line to run VPN.
+Use this script if you prefer the use of command line over GUI to run VPN.
 ```
 cat << EOF > anyconnect.sh
 #!/bin/bash
